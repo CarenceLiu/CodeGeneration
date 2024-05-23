@@ -1,0 +1,9 @@
+{
+  "bos_token": "<s>",
+  "cls_token": "[CLS]",
+  "eos_token": "</s>",
+  "mask_token": "[MASK]",
+  "pad_token": "[PAD]",
+  "sep_token": "concode_elem_sep",
+  "unk_token": "[UNK]"
+}
